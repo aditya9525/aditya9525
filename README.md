@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋![CoverPhoto](https://github.com/aditya9525/aditya9525/blob/main/1650367021018.jpeg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=💻Full+Stack+Developer...)](https://git.io/typing-svg)
 
-<!--
-**aditya9525/aditya9525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Passionate about MERN-Stack Development & Problem Solving.
+- 💬 Ask me about Web Development, Artificial Intelligence, DSA.
+- 📫 How to reach me: Adityastar432@gmail.com
 
-Here are some ideas to get you started:
+  
+### 🧘⚙️ My Tech Stack
+#### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript)
+
+#### Framework, Platforms and Libraries
+![FPL](https://skillicons.dev/icons?i=react,nodejs,expressjs)
+#### Favourite IDE/Editors
+![My Skills](https://skillicons.dev/icons?i=vscode)
+#### Version Control
+![My Skills](https://skillicons.dev/icons?i=git,github)
+#### Databases
+![My Skills](https://skillicons.dev/icons?i=mongodb,firebase)
+#### Others
+![My Skills](https://skillicons.dev/icons?i=postman,aws)
+#### Operating System
+![My Skills](https://skillicons.dev/icons?i=windows)
+
+
