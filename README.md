@@ -1,5 +1,5 @@
 ### Hi there 👋![CoverPhoto](https://github.com/aditya9525/aditya9525/blob/main/1650367021018.jpeg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=💻Full+Stack+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=💻+Full+Stack+Developer.;👋+Nice+To+Meet+You...)](https://git.io/typing-svg)
 
 - 💡 Passionate about MERN-Stack Development & Problem Solving.
 - 💬 Ask me about Web Development, Artificial Intelligence, DSA.
